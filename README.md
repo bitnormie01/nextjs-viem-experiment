@@ -1,3 +1,5 @@
+
+LIVE PREVIEW: https://nextjs-viem-experiment.vercel.app/
 # 🧪 Next.js Web3 API Experiment
 
 Hey! This is a practice project I built while diving into full-stack Web3 development. I'm currently figuring out Next.js APIs, routing, and how to safely fetch blockchain data without exposing my RPC URLs to the frontend.
